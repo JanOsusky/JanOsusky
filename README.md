@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @JanOsusky 21 yo studing at BUT FIT, Erasmus at UMA ETSII in summmer sememster 2023
+- 👀 I’m interested in Web and Mobile App development
+- 📫 How to reach me on linkedin -> https://www.linkedin.com/in/jan-osusk%C3%BD-2b6382273/
+
+<!---
+JanOsusky/JanOsusky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
